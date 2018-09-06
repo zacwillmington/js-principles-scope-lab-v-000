@@ -3,6 +3,6 @@
 var customerName = "bob";
 
 
-function modifiesCustomerName(){
+function upperCaseCustomerName(){
     
 }
