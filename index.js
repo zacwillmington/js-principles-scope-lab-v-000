@@ -2,4 +2,7 @@
 
 var customerName = "bob";
 
- 
+
+function modifiesCustomerName(){
+    
+}
