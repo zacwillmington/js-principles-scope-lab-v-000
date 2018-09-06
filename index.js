@@ -2,7 +2,7 @@
 
 customerName = "bob";
 bestCustomer;
-leastFavoriteCustomer;
+const leastFavoriteCustomer;
 
 function upperCaseCustomerName(){
     customerName = customerName.toUpperCase();
